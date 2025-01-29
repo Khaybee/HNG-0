@@ -33,13 +33,14 @@ To get the information locally, send a GET request to the endpoint:
 
 curl localhost:3000/api/info
 
+## Backlinks
 
 ## Hire From HNG
 
-[python](https://hng.tech/hire/python-developers)
-[c-sharp](https://hng.tech/hire/csharp-developers)
-[golang](https://hng.tech/hire/golang-developers)
-[php](https://hng.tech/hire/php-developers)
-[java](https://hng.tech/hire/java-developers)
-[Node.js](https://hng.tech/hire/nodejs-developers)
+- [python](https://hng.tech/hire/python-developers)
+- [c-sharp](https://hng.tech/hire/csharp-developers)
+- [golang](https://hng.tech/hire/golang-developers)
+- [php](https://hng.tech/hire/php-developers)
+- [java](https://hng.tech/hire/java-developers)
+- [Node.js](https://hng.tech/hire/nodejs-developers)
 
