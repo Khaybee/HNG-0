@@ -1,6 +1,6 @@
 API Documentation
 
-Endpoint
+## Endpoint
 
 * GET api/info
 
@@ -33,6 +33,7 @@ To get the information locally, send a GET request to the endpoint:
 
 curl localhost:3000/api/info
 
-Backlink:
 
-[baclink](https://hng.tech/hire/nodejs-developers)
+## Backlink
+
+[Node.js Developers](https://hng.tech/hire/nodejs-developers)
