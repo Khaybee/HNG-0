@@ -15,13 +15,7 @@ export const getInfo = (
             github_url: "https://github.com/Khaybee/HNG-0"
           }
 
-        res.json({
-            statusCode: 200,
-            status: "success",
-            success: true,
-            data: info,
-
-        });
+        res.status(200).json(info);
     } catch (error: any) {
         res.status(500).json({
             statusCode: 500,
