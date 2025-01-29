@@ -21,7 +21,7 @@ export const getInfo = (
             success: true,
             data: info,
 
-        })
+        });
     } catch (error: any) {
         res.status(500).json({
             statusCode: 500,
